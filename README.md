@@ -1,7 +1,3 @@
-Certainly! Here's a GitHub README.md version of your Medium blog post, tailored for your Learn-Lynx project:
-
----
-
 # Learn-Lynx: An Interactive GenAI-Powered Study Partner
 
 ## 📚 A Google Bootcamp GenAI Capstone Project (2025 Q1)
@@ -115,7 +111,3 @@ To evaluate the model, we employed human feedback and a fine-tuning process that
 
 * [Medium Blog Post](https://medium.com/@rohanvailalathoma/learn-lynx-an-fun-and-interactive-genai-powered-study-partner-tutor-for-students-66b6d8392a91)
 * [Kaggle Notebook](https://www.kaggle.com/code/rohanthoma/learn-lynx-genai-powered-study-tutor-and-partner)
-
----
-
-Feel free to customize this README further to align with your project's specifics and repository structure.
